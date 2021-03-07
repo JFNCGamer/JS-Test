@@ -1,5 +1,5 @@
 function TestFunction2() {
-    document.getElementById("test").innerHTML = "Teste";
+    document.getElementById("test").innerHTML = "Thanks!";
   }
   function TestFunction() {
     document.getElementById("test").innerHTML = "";
