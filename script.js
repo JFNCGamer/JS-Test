@@ -1,6 +1,6 @@
 function TestFunction2() {
-    document.getElementById("test").innerHTML = "Errado!";
+    document.getElementById("lol").innerHTML = "Errado!";
   }
   function TestFunction() {
-    document.getElementById("test").innerHTML = "Certo!";
+    document.getElementById("lol").innerHTML = "Certo!";
   }
